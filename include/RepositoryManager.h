@@ -36,5 +36,3 @@ public:
     std::string getBranchFile()  const;
     std::string getIndexFile()   const;
 };
-
-#endif
